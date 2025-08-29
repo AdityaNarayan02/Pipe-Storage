@@ -73,7 +73,7 @@ nano ~/.pipe-cli.json
 
 9️⃣ Put the Refer Code
 ```
-pipe referral apply <YOUR CODE>
+pipe referral apply tradingimsny-23372
 ```
 
 1️⃣0️⃣ Generate Your Referral
