@@ -73,7 +73,7 @@ nano ~/.pipe-cli.json
 
 9️⃣ Put the Refer Code
 ```
-pipe referral apply tradingimsny-23372
+pipe referral apply ADITYA-COPS
 ```
 
 1️⃣0️⃣ Generate Your Referral
